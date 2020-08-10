@@ -1,0 +1,327 @@
+body{
+  font-family: "Muli",sans-serif;
+}
+p{
+  color: rgba(125, 121, 135, 0.5)
+}
+hr{
+  width: 56px;
+  height: 2px;
+  background-color: rgb(0, 0, 0);
+}
+.container{
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main{
+  margin-left: auto;
+  margin-right: auto;
+}
+.header a{
+  color: rgba(31, 21, 52, 0.5);
+  text-decoration: none;
+}
+.header .header-home {
+  color: rgb(31, 21, 52);
+  font-weight: 700;
+}
+.header-ul{
+  width: 1038px;
+  display: inline-block;
+  text-align: right;
+  margin-right: 121px;
+}
+.header{
+  display: inline;
+  margin: 15px;
+}
+.logo{
+  display: inline-block;
+  margin-left: 241px;
+  margin-top: 141px;
+}
+.virtual-healthcare{
+  display: flex;
+  align-items: center;
+  height: 650px;
+  margin-bottom: 114px;
+}
+.text-virtual-healthcare{
+  width: 450px;
+  margin: 100px 109px 45px 246px;
+}
+.virtual-healthcare img{
+  margin: 84px 109px 0 0;
+}
+.virtual-healthcare h1{
+  font-size: 48px;
+  line-height: 56px;
+}
+.virtual-healthcare p{
+  font-size: 21px;
+  line-height: 32px;
+}
+.virtual-healthcare a{
+  display: inline-block;
+  background-color: rgb(69, 143, 246);
+  color: rgb(255, 255, 255);
+  padding: 15px;
+  border-radius: 55px;
+  text-decoration: none;
+}
+/* Our servicesgacha bo'gan ish tugadi */
+.our-services-h2{
+  width: 952px;
+  text-align: center;
+  margin: 0 auto;
+}
+.our-services-h2 h2{
+  font-size: 36px;
+  line-height: 56px;
+}
+.our-services-h2 p{
+  font-size: 18px;
+  line-height: 30px;
+  padding-top: 28px;
+}
+.six-pictures{
+  margin: 0 240px 0 240px;
+  padding-bottom: 200px;
+}
+.six-pictures li{
+  list-style-type: none;
+  margin: 0 auto;
+  width: 350px;
+  height: 354px;
+  display: inline-block;
+  align-items: center;
+}
+.six-pictures p{
+  padding: 2px 45px 45px 45px;
+  margin-bottom: 0;
+  line-height: 28px;
+}
+.six-pictures h3{
+  font-size: 24px;
+  line-height: 56px;
+  padding-left: 45px;
+}
+.six-pictures img{
+  padding: 55px 0 0 45px;
+}
+.six-pictures a{
+  display: inline-block;
+  border: 1px solid rgb(69, 143, 246);
+  color: rgb(69, 143, 246);
+  padding: 15px 35px;
+  border-radius: 55px;
+  text-decoration: none;
+  margin: 0 480px;
+}
+/* Leading healthcare providers gacha tugadi */
+.providers-healthcare-image{
+  display: flex;
+}
+.providers-healthcare-image img{
+  margin-left: 142px;
+  padding-bottom: 150px;
+}
+.providers-healthcare{
+  width: 450px;
+  text-align: left;
+  margin-left: 142px;
+}
+.providers-healthcare hr{
+  margin-left: 0;
+}
+.providers-healthcare a{
+  display: inline-block;
+  border: 1px solid rgb(69, 143, 246);
+  color: rgb(69, 143, 246);
+  padding: 15px 35px;
+  border-radius: 55px;
+  text-decoration: none;
+}
+.providers-healthcare h2{
+  font-size: 36px;
+  line-height: 56px;
+}
+.providers-healthcare p{
+  font-size: 18px;
+  line-height: 30px;
+}
+/* providers tugadi */
+.mobile-apps{
+  display: flex;
+  padding-bottom: 120px;
+}
+.mobile-apps-text{
+  margin: 10px 0 0 280px;
+  width: 420px;
+  text-align: left;
+}
+.mobile-apps-text hr{
+  margin: 0;
+}
+.mobile-apps-text h2{
+  font-size: 36px;
+  line-height: 48px;
+}
+.mobile-apps-text p{
+  font-size: 18px;
+  line-height: 30px;
+}
+.mobile-apps-text a{
+  display: inline-block;
+  border: 1px solid rgb(69, 143, 246);
+  color: rgb(69, 143, 246);
+  padding: 15px 35px;
+  border-radius: 55px;
+  text-decoration: none;
+}
+.mobile-apps-text .vector-down{
+  margin-left: 15px;
+  margin-right: 0;
+}
+/* coment qismiga keldik */
+.coment{
+  width: 1120px;
+  height: 425px;
+  margin: 0 auto;
+  background-color: rgb(90, 152, 242);
+  border-radius: 24px;
+}
+.coment h2{
+  font-size: 36px;
+  text-align: center;
+  line-height: 48px;
+  padding-top: 62px;
+}
+.coment hr{
+  background-color: rgb(255, 255, 255);
+}
+.name-of-man p, .coment-c blockquote, .coment h2{
+  color: rgb(255, 255, 255); 
+}
+.image-man{
+  display: flex;
+}
+.image-man img{
+  border-radius:50%;
+  margin:50px 30px 90px 100px;
+}
+.coment-c blockquote{
+  width: 420px;
+  padding-top: 60px;
+  font-size: 19px;
+  line-height: 30px;
+}
+.name-of-man{
+  padding-top: 70px;
+  margin-right: 110px;
+}
+.vectors{
+  text-align: center;
+  padding-top: 40px;
+}
+.vectors button{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: rgb(128, 128, 128);
+  opacity: .1;
+  padding-top: 18px;
+  margin-bottom: 200px;
+}
+/* black man tugadi  */
+.check-out{
+  font-size: 36px;
+  line-height: 56px;
+  text-align: center;
+}
+.three-pictures li{
+  width: 350px;
+  height: 512px;
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 34px;
+}
+.three-pictures{
+  margin: 72px 189px 0 189px;
+}
+.three-pictures .pic{
+  width: 369px;
+  height: 246px;
+  border-radius: 40px 40px 0 0;
+}
+.three-pictures h3, a{
+  margin-left: 33px;
+}
+.three-pictures p{
+  margin-left: 33px;
+}
+.three-pictures h3{
+  font-size: 21px;
+  line-height: 32px;
+}
+.three-pictures p{
+  line-height: 28px;
+}
+.three-pictures .info{
+  text-decoration: none;
+  font-size: 17px;
+  color:rgb(69, 143, 246);
+}
+.three-pictures .info img{
+  margin-left: 10px;
+}
+.view-all{
+  text-align: center;
+}
+.view-all a{
+  display: inline-block;
+  font-size: 18px;
+  border: 1px solid rgb(69, 143, 246);
+  color: rgb(69, 143, 246);
+  padding: 15px 50px;
+  border-radius: 55px;
+  text-decoration: none;
+  word-spacing: 10px;
+  margin-bottom: 200px;
+}
+/* footer qoldi */
+.footer{
+  background-color: #5A98F2;
+  height: 432px;
+  display: flex;
+  align-items: center;
+}
+.footer p, a, h4{
+  color: #fff;
+}
+.footer .logo-footer{
+  width: 391px;
+  font-size: 18px;
+  line-height: 28px;
+}
+.footer li{
+  list-style-type: none;
+  font-size: 18px;
+  line-height: 38px;
+}
+.footer div{
+  margin: 145px 0 145px 145px;
+}
+.logo-footer .c-white{
+  padding-top: 30px;
+}
+.logo-footer ul{
+  text-align: center;
+}
+.footer ul li h4{
+  text-align: center;
+}
+.footer ul li a{
+  text-decoration: none;
+}
